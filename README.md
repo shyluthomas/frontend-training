@@ -16,18 +16,31 @@
   1.basics of javascript
   2.es6 and above basics
   variables : https://www.tutorialspoint.com/javascript/javascript_variables.htm
+  
   Operator: https://www.tutorialspoint.com/javascript/javascript_operators.htm
+  
   if ..else : https://www.tutorialspoint.com/javascript/javascript_ifelse.htm
+  
   switch :  https://www.tutorialspoint.com/javascript/javascript_switch_case.htm
+  
   for lop : https://www.tutorialspoint.com/javascript/javascript_for_loop.htm
+  
   functions : https://www.tutorialspoint.com/javascript/javascript_functions.htm
+  
   events: https://www.tutorialspoint.com/javascript/javascript_events.htm
+  
   cookies: https://www.tutorialspoint.com/javascript/javascript_cookies.htm
+  
   page redirection : https://www.tutorialspoint.com/javascript/javascript_page_redirect.htm
+  
   objects: https://www.tutorialspoint.com/javascript/javascript_objects.htm
+  
   strings: https://www.tutorialspoint.com/javascript/javascript_strings_object.htm
+  
   arrays: https://www.tutorialspoint.com/javascript/javascript_arrays_object.htm
+  
   date: https://www.tutorialspoint.com/javascript/javascript_date_object.htm
+  
   reg expressions: https://www.tutorialspoint.com/javascript/javascript_regexp_object.htm
   
   
